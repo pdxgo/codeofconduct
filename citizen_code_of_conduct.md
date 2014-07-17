@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-A primary goal of COMMUNITY_NAME is to be inclusive to
+A primary goal of PDXGo is to be inclusive to
 the largest number of contributors, with the most varied
 and diverse backgrounds possible. As such, we are committed
 to providing a friendly, safe and welcoming environment for
@@ -14,7 +14,7 @@ This code of conduct outlines our expectations for all
 those who participate in our community, as well as the
 consequences for unacceptable behavior.
 
-We invite all those who participate in COMMUNITY_NAME to
+We invite all those who participate in PDXGo to
 help us create safe and positive experiences for everyone.
 
 ## 2.‎ ‏Open [Source/Culture/Tech] Citizenship
@@ -77,7 +77,7 @@ without refund in the case of a paid event).
 
 If you are subject to or witness unacceptable behavior, or
 have any other concerns, please notify a community organizer
-as soon as possible. [CONTACT_INFO_HERE]
+as soon as possible. pdxgolang@gmail.com
 
 Additionally, community organizers are available to help
 community members engage with local law enforcement or to
