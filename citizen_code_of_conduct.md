@@ -104,9 +104,9 @@ to community business.
 
 ## 9.‎ ‏Contact info
 
-Josh Roppo: joshroppo [at] gmail.com
-Ryan Arana: ryan.arana [at] gmail.com
-Michael Schurter: michael [at] lytics.io 
+Josh Roppo: joshroppo [at] gmail.com  
+Ryan Arana: ryan.arana [at] gmail.com  
+Michael Schurter: michael [at] lytics.io   
 
 ## 10.‎ ‏License and attribution
 
