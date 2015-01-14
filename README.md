@@ -1,2 +1,2 @@
-policies
-========
+Code of Conduct for PDXGo
+=========================
