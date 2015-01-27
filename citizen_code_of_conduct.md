@@ -116,4 +116,4 @@ Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-s
 _Revision 2.0, created by the [Stumptown
 Syndicate](http://stumptownsyndicate.org) 
 
-Modified for use and adopted by PDXGo in January 1015
+Modified for use and adopted by PDXGo in January 2015
