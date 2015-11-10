@@ -26,6 +26,8 @@ disability, ethnicity, religion, or similar personal characteristic.
 The Code of Conduct applies generally. If you participate in or contribute to
 the Go ecosystem in any way, you should observe the Code of Conduct.
 
+PDXGo will enforce this Code of Conduct at meetings and in online discussion forums.
+
 Explicit enforcement of the Code of Conduct can only practically apply to the
 official forums operated by the Go project (the official Go GitHub projects, Go
 project code reviews, the #go-nuts IRC channel, the /r/golang sub-reddit, and
